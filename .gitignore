@@ -1,0 +1,21 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+.venv/
+*.pyc
+
+# Java
+target/
+*.class
+
+# React / Node.js
+node_modules/
+dist/
+
+# IDE
+.idea/
+.vscode/
